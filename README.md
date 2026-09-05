@@ -87,6 +87,4 @@ It includes analysis of:
 The interactive design allows users to move from overall portfolio performance into specific risk segments and identify areas requiring closer attention.
 
 ## Key Insights
-38,576 loan applications, 435.8M funded, 473.1M received — the portfolio has taken in more than it lent out, giving a Recovery Ratio of 108.6%. That's expected and healthy: interest payments on performing loans push total collections above principal, even after accounting for defaults.
-**Avg Interest Rate**: 12.0%, Avg DTI: 13.3% — a moderate-risk retail lending book overall, not subprime-heavy.
-**Default Rate**: 13.8% — roughly 1 in 7 loans issued ends in charge-off, which becomes the throughline for the rest of the risk analysis.
+
