@@ -88,3 +88,32 @@ The interactive design allows users to move from overall portfolio performance i
 
 ## Key Insights
 
+The following insights are based on the full loan portfolio.The dashboard's interactive filters allow users to explore how portfolio metrics change across individual segments.
+
+### 1. Overall Portfolio Performance
+
+The portfolio contains 38,576 loan applications, with 435.8M in total funding and 473.1M in total amount received. While the overall received-to-funded ratio is 108.6%,this overall total hides the huge losses from bad loans.
+
+### 2. Charged-Off Loans Represent a Significant Capital Loss
+
+Loans that ultimately charged off received approximately 37.3M against 65.5M funded, leaving approximately 28.2M unrecovered. This highlights the importance of monitoring default exposure alongside overall portfolio recovery(we must track bad debt risks alongside overall money recovered).
+
+### 3. Default Risk Rises Sharply Across Risk Grades
+
+Default rates increase consistently from 5.7% for Grade A loans to 31.3% for Grade G loans. The huge difference demonstrates a strong relationship between risk grade and observed loan performance.
+
+### 4. Longer Loan Terms Carry Higher Default Risk
+
+Loans with a 60-month term have a 22.3% default rate compared with 10.7% for 36-month loans. This means longer loans are clearly the main source of risk in the portfolio.
+
+### 5. Loan Pricing Increases with Risk
+
+Average interest rates rise steadily from 7.4% for Grade A loans to 21.4% for Grade G loans. Higher-risk segments are therefore associated with substantially higher borrowing costs.
+
+### 6. Debt Consolidation Drives Portfolio Volume
+
+Debt Consolidation accounts for 18,214 applications, representing 47.2% of the entire portfolio. Its default rate of approximately 14.6% is slightly above the overall portfolio default rate of 13.8%. It isn't an especially risky loan category on its own. However, because it represents such a large share of total lending, it accounts for nearly half (49.7%) of every loan that has ever charged off in the entire book. In other words, Debt Consolidation isn't a high-risk category — it's a high-volume category, and its size alone makes it the biggest single driver of total losses. Any strategy to lower overall portfolio losses will have a great impact by targeting this segment, simply because of how much of the book it represents.
+
+### 7. Loan Applications Are Geographically Concentrated
+
+California alone accounts for 6,894 applications ( approximately 18% of the entire book), more than double the next state (New York, 3,701). This means the portfolio carries significant geographic concentration risk in California.
