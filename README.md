@@ -71,6 +71,8 @@ It includes:
 
 Users can interact with the dashboard using filters such as **Risk Grade** and **Loan Purpose** to examine different segments of the portfolio.
 
+![Bank Loan Analytics Dashboard - Overview](images/dashboard_overview.png)
+
 ### Page 2 – Risk Analysis
 
 The Risk Analysis page focuses on identifying patterns in loan performance and borrower risk.
@@ -85,6 +87,8 @@ It includes analysis of:
 - Funding and portfolio performance across risk grades
 
 The interactive design allows users to move from overall portfolio performance into specific risk segments and identify areas requiring closer attention.
+
+![Bank Loan Analytics Dashboard - Risk Analysis](images/dashboard_risk_analysis.png)
 
 ## Key Insights
 
