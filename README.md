@@ -104,7 +104,7 @@ Default rates increase consistently from 5.7% for Grade A loans to 31.3% for Gra
 
 ### 4. Longer Loan Terms Carry Higher Default Risk
 
-Loans with a 60-month term have a 22.3% default rate compared with 10.7% for 36-month loans. This means longer loans are clearly the main source of risk in the portfolio.
+Loans with a 60-month term have a 22.3% default rate compared with 10.7% for 36-month loans. This means loans with longer terms carry substantially higher default risk, making loan term an important risk factor in the portfolio.
 
 ### 5. Loan Pricing Increases with Risk
 
@@ -116,4 +116,4 @@ Debt Consolidation accounts for 18,214 applications, representing 47.2% of the e
 
 ### 7. Loan Applications Are Geographically Concentrated
 
-California alone accounts for 6,894 applications ( approximately 18% of the entire book), more than double the next state (New York, 3,701). This means the portfolio carries significant geographic concentration risk in California.
+California alone accounts for 6,894 applications ( approximately 18% of the entire book), more than double the next state (New York, 3,701). This indicates significant geographic concentration in California, creating potential exposure to regional concentration risk.
