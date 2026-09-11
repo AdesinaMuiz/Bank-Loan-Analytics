@@ -121,3 +121,29 @@ Debt Consolidation accounts for 18,214 applications, representing 47.2% of the e
 ### 7. Loan Applications Are Geographically Concentrated
 
 California alone accounts for 6,894 applications ( approximately 18% of the entire book), more than double the next state (New York, 3,701). This indicates significant geographic concentration in California, creating potential exposure to regional concentration risk.
+
+## Business Recommendations
+### 1. Strengthen underwriting and monitoring for higher-risk grades
+
+The analysis shows a clear increase in default rates as risk grade moves from A to G. Higher-risk grades should therefore receive closer attention during both loan approval and portfolio monitoring.
+The bank could consider applying stricter underwriting criteria, stronger affordability checks, or additional monitoring to higher-risk segments. This could help reduce default exposure while still allowing the business to serve borrowers across different risk levels.
+
+### 2. Review the risk and return of 60-month loans
+
+Loans with a 60-month term have a 22.3% default rate, compared with 10.7% for 36-month loans. This significant difference suggests that longer loan terms deserve closer review.
+The bank could evaluate whether the additional interest earned from longer-term loans adequately compensates for their higher default risk. Where appropriate, shorter terms or additional eligibility requirements could be considered for borrowers with higher-risk profiles.
+
+### 3. Prioritize monitoring of Debt Consolidation loans
+
+Debt Consolidation represents 47.2% of all loan applications and accounts for approximately 49.7% of charged-off loans. Its default rate is only slightly above the overall portfolio rate, so the issue is not that Debt Consolidation is inherently high-risk.
+Rather, its large share of the portfolio means that problems within this segment can have a significant impact on overall portfolio losses. The business should therefore closely monitor this segment and look for ways to improve performance without unnecessarily restricting lending to this large customer group.
+
+### 4. Monitor geographic concentration
+
+California accounts for approximately 18% of all loan applications, considerably more than any other state in the portfolio. While high application volume does not necessarily mean higher credit risk, such concentration creates greater exposure to one geographic market.
+The bank should monitor portfolio growth and loan performance by state to ensure that geographic concentration does not become an increasing source of portfolio exposure.
+
+### 5. Continue using risk-based pricing, but regularly evaluate its effectiveness
+
+Interest rates increase steadily across the risk grades, with Grade A averaging 7.4% and Grade G averaging 21.4%. This indicates that higher-risk borrowers are being charged higher rates to reflect their greater observed risk.
+The bank should continue using risk-based pricing, but regularly assess whether the additional interest earned from higher-risk segments is sufficient to compensate for their higher default rates and associated losses. This can help maintain a balance between growth, borrower affordability, and portfolio profitability.
