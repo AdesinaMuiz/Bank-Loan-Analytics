@@ -116,7 +116,7 @@ Average interest rates rise steadily from 7.4% for Grade A loans to 21.4% for Gr
 
 ### 6. Debt Consolidation Drives Portfolio Volume
 
-Debt Consolidation accounts for 18,214 applications, representing 47.2% of the entire portfolio. Its default rate of approximately 14.6% is slightly above the overall portfolio default rate of 13.8%. It isn't an especially risky loan category on its own. However, because it represents such a large share of total lending, it accounts for nearly half (49.7%) of every loan that has ever charged off in the entire book. In other words, Debt Consolidation isn't a high-risk category — it's a high-volume category, and its size alone makes it the biggest single driver of total losses. Any strategy to lower overall portfolio losses will have a great impact by targeting this segment, simply because of how much of the book it represents.
+Debt Consolidation accounts for 18,214 applications, representing 47.2% of the entire portfolio. Its default rate of approximately 14.6% is slightly above the overall portfolio default rate of 13.8%. It isn't an especially risky loan category on its own. However, because it represents such a large share of total lending, it accounts for nearly half (49.7%) of every loan that has ever charged off in the entire book. In other words, Debt Consolidation isn't a high-risk category - it's a high-volume category, and its size alone makes it the biggest single driver of total losses. Any strategy to lower overall portfolio losses will have a great impact by targeting this segment, simply because of how much of the book it represents.
 
 ### 7. Loan Applications Are Geographically Concentrated
 
