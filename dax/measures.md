@@ -1,4 +1,4 @@
-# DAX Measures & Date Table
+# DAX Measures
 
 This documents the DAX calculations used in the Bank Loan Analytics Dashboard. The measures support portfolio KPIs, loan performance analysis, default analysis, recovery analysis, and time-based reporting.
 
